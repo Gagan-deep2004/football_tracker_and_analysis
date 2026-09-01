@@ -28,7 +28,7 @@ A computer vision pipeline that automatically tracks players, identifies teams, 
    - Caching system to maintain consistent team assignments
 
 3. **Ball Possession Logic**
-   - Euclidean distance calculation to nearest player
+   - Euclidean distance calculation to the nearest player
    - Configurable threshold for possession assignment
    - Temporal smoothing to reduce flickering
 
